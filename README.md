@@ -2,7 +2,7 @@
 
 This is a project for synchronize data from a database to another database.
 
-MAIN==== THIS IS DEVB
+MAIN==== THIS IS DEVA+DevB
 
 ## Stack
 
